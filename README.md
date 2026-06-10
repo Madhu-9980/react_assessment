@@ -52,14 +52,14 @@ Task Flow is a secure, responsive, and intuitive task management web application
 *   **Build Tool**: Vite
 *   **Routing**: React Router Dom
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### 1. Prerequisites
-Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+Ensure you have [Node.js](https://nodejs.org/) installed on  machine.
 
 ### 2. Clone the Repository
 
-git clone 
+git clone https://github.com/Madhu-9980/react_assessment.git
 cd react_assessment
 
 
